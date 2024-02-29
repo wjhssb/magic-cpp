@@ -136,7 +136,7 @@ namespace magic::details
             }
             else
             {
-                symbols = {"|-- ", "|   ", "`-- ", "    "};
+                symbols = {"|__ ", "|   ", "\\__ ", "    "};
             }
         }
 
